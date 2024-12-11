@@ -1,6 +1,6 @@
 #!/bin/bash
 export LC_ALL=C
-export UUID=${UUID:-'e37ecf9e-a485-42ce-8f45-1da26cc517b3'} 
+export UUID=${UUID:-'e33b76f8-42ac-45b5-bd22-271e82ba8993'} 
 export NEZHA_SERVER=${NEZHA_SERVER:-''}      
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}             
 export NEZHA_KEY=${NEZHA_KEY:-''}                
